@@ -15,17 +15,17 @@ Successful Logout
 Invalid Credentials
 ![Screenshot from 2024-12-10 17-15-58](https://github.com/user-attachments/assets/1a838c0f-1840-41a0-9f5a-8ae9d6a44a74)
 
-Home Page (Require `EMPLOYEE` Role to View)
+Home Page (Requires `EMPLOYEE` Role to View)
 ![Screenshot from 2024-12-10 17-16-41](https://github.com/user-attachments/assets/736bae04-fb86-48ed-bbeb-e77b3a1adb2d)
 
 Home Page with link for users with `MANAGER` role
 ![Screenshot from 2024-12-10 17-17-08](https://github.com/user-attachments/assets/fdddb30d-4902-409a-9f3a-9abcc8176ca5)
 
-Leaders Page (Require `MANAGER` role)
+Leaders Page (Requires `MANAGER` role)
 ![Screenshot from 2024-12-10 17-17-16](https://github.com/user-attachments/assets/92695c74-1228-41b2-9f9e-a347695c288e)
 
 Home Page with link for users with `MANAGER` and `ADMIN` roles
 ![Screenshot from 2024-12-10 17-17-33](https://github.com/user-attachments/assets/f0231d46-3e48-4943-aebe-ead901dd9990)
 
-Systems Page (Require `ADMIN` role)
+Systems Page (Requires `ADMIN` role)
 ![Screenshot from 2024-12-10 17-17-40](https://github.com/user-attachments/assets/5886619b-8733-458d-95d9-b2a21942a4bc)
