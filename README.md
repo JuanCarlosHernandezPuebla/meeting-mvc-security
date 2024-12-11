@@ -15,7 +15,7 @@ Successful Logout
 Invalid Credentials
 ![Screenshot from 2024-12-10 17-15-58](https://github.com/user-attachments/assets/1a838c0f-1840-41a0-9f5a-8ae9d6a44a74)
 
-Home Page (Requires `EMPLOYEE` Role to View)
+Home Page (Requires `EMPLOYEE` role to view)
 ![Screenshot from 2024-12-10 17-16-41](https://github.com/user-attachments/assets/736bae04-fb86-48ed-bbeb-e77b3a1adb2d)
 
 Home Page with link for users with `MANAGER` role
