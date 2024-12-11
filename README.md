@@ -1,5 +1,5 @@
 # meeting-mvc-security
-Spring MVC Meeting/Message app with Spring Security. Using MySQL as database.
+Spring MVC Meeting/Message app with Spring Security. Using MySQL for database.
 
 ## DB Diagram
 ![meeting-db-diagram](https://github.com/user-attachments/assets/84dfaeaf-a928-4c07-baff-d5d1c8fe6c04)
